@@ -15,5 +15,7 @@ namespace Cadastro.Data
         }
 
         public DbSet<Cadastro.Models.Pessoa> Pessoa { get; set; }
+
+      
     }
 }
